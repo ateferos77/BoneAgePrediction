@@ -22,10 +22,8 @@
 - [Usage](#-usage)
 - [Results](#-results)
 - [Technical Details](#-technical-details)
-- [Project Structure](#-project-structure)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
+
+
 
 ## 🎯 Overview
 
@@ -130,8 +128,6 @@ Two main models were implemented:
 - **Training**: AdamW optimizer, cosine LR schedule with warm-up, Huber loss  
 - **Evaluation Metrics**: MAE, RMSE, R²  
 
-## 📁 Project Structure
-*(same as original README, unchanged)*
 
 ## 🎯 Model Performance Insights
 
